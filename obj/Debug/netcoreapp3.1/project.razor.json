@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-8.35\\NewRelicDemo-NN-01.csproj",
+  "FilePath": "c:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-more-routing\\NewRelicDemo-NN-01.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,13 +14392,13 @@
   "RootNamespace": "NewRelicDemo_NN_01",
   "Documents": [
     {
-      "FilePath": "c:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-8.35\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-more-routing\\Views\\Entries\\Index.cshtml",
+      "TargetPath": "Views\\Entries\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-8.35\\Views\\Entries\\Index.cshtml",
-      "TargetPath": "Views\\Entries\\Index.cshtml",
+      "FilePath": "c:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-more-routing\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],

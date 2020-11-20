@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-8.35\\NewRelicDemo-NN-01.csproj": {}
+    "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-more-routing\\NewRelicDemo-NN-01.csproj": {}
   },
   "projects": {
-    "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-8.35\\NewRelicDemo-NN-01.csproj": {
+    "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-more-routing\\NewRelicDemo-NN-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-8.35\\NewRelicDemo-NN-01.csproj",
+        "projectUniqueName": "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-more-routing\\NewRelicDemo-NN-01.csproj",
         "projectName": "NewRelicDemo-NN-01",
-        "projectPath": "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-8.35\\NewRelicDemo-NN-01.csproj",
+        "projectPath": "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-more-routing\\NewRelicDemo-NN-01.csproj",
         "packagesPath": "C:\\Users\\v-nanaik\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-8.35\\obj\\",
+        "outputPath": "C:\\Projects_netCore\\NewRelicDemo-NN-NewRelic-more-routing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v-nanaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
